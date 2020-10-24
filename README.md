@@ -1,3 +1,4 @@
+<h1 align="center">GITHUB | Luca Gärisch</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucagaerisch&label=Profile%20views&color=b40e0e&style=flat-square" alt="lucagaerisch" /> </p>
 
 - 🌱 I’m currently learning **C#, Java**
