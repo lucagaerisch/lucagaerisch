@@ -1,8 +1,10 @@
-<h3 align="center">Ausbildung, BSZ Würzburg</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucagaerisch&label=Profile%20views&color=b40e0e&style=flat-square" alt="lucagaerisch" /> </p>
 
 - 🌱 I’m currently learning **C#, Java**
+
+- 💬 Ask me about **everything**
+
+- ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
