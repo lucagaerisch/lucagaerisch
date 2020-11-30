@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **C#, Java / Kotlin**
 
-- 💬 Ask me about **everything**
-
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories**
 
 <h3 align="left">Connect with me:</h3>
